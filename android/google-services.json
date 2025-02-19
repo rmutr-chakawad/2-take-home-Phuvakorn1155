@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850838619186",
+    "project_id": "goodslists-170225",
+    "storage_bucket": "goodslists-170225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850838619186:android:91c3ed57398958af0d682b",
+        "android_client_info": {
+          "package_name": "com.work.Goodslists"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLnlNY75BIbZ3g70eCIxgaHXohfKltI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
